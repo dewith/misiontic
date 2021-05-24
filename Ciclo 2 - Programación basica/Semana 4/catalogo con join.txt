@@ -1,0 +1,13 @@
+Contenido	Pelicula	Serie
+1	Los Vengadores	NULL
+2	Interestelar	NULL
+3	El viaje de Chihiro	NULL
+4	Parasitos	NULL
+5	Mas alla de los sueños	NULL
+6	NULL	The walking dead
+7	NULL	Viaje a las estrellas: la serie original
+8	NULL	Glow
+9	NULL	La casa de papel
+10	NULL	Friends
+11	NULL	Arrow
+12	NULL	The big bang theory
